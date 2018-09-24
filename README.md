@@ -1,5 +1,29 @@
 # MusicPlayer
 
+An Apple Music web interface.
+
+## Basic Features
+
+### Now playing
+
+Shows the song title and album artwork for the currently playing track.
+
+### Up Next
+
+Show what song is going to play next
+
+### Access Playlists
+
+Allow user to select different playlists to play from.
+
+## Changelog
+
+- **2018-09-24 Implementing basic structure of application** <br/>Adding templates and placeholders for where sections should be.
+
+---
+
+# App information
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
 
 ## Development server
