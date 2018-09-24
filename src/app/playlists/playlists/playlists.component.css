@@ -1,0 +1,9 @@
+.playlist {
+  text-align: center;
+  padding: 10px;
+}
+.playlists {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}

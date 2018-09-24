@@ -1,0 +1,16 @@
+header {
+  text-align: center;
+}
+.app {
+  display: grid;
+  grid-template-columns: 3fr 9fr;
+  grid-template-areas: "nowPlaying main";
+}
+.now_playing {
+  grid-area: nowPlaying;
+  border: 2px solid black;
+}
+.main {
+  grid-area: main;
+  border: 2px solid black;
+}
